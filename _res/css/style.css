@@ -1,0 +1,33 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+
+body {
+  padding-top: 70px;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+#main {
+  flex: 1;
+}
+
+.img-style {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  border: 2px black;
+  border-radius: 10px;
+}
+
+.button:hover {
+  box-shadow: 2px 2px 0px 0px #a9aa69;
+  transition: box-shadow 0.1s;
+}
+
+.alt-blue {
+  background-color: #8aa9ff;
+}
+
+.footer {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
