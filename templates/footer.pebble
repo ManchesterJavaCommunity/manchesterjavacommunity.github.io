@@ -1,0 +1,11 @@
+    <footer class="footer has-background-grey-light">
+        <div class="content has-text-centered">
+            <p class="has-text-white">
+                Made by and for the Manchester Java Community members
+                <br>
+                <a class="has-text-link-dark" href="mailto:organisers@manchesterjavacommunity.org">organisers@manchesterjavacommunity.org</a>
+                <br>
+                <a class="has-text-link-dark" href="/code-of-conduct">Code of Conduct</a>
+            </p>
+        </div>
+    </footer>

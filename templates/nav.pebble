@@ -1,0 +1,44 @@
+        <nav class="navbar is-fixed-top is-warning has-shadow">
+            <div class="container">
+                <div class="navbar-brand">
+                    <figure class="image is-48x48">
+                        <img class="is-rounded" src="/img/MJC-Bee.png" />
+                    </figure>
+                    <a class="navbar-item has-text-weight-bold" href="/">Manchester Java Community</a>
+                    <div class="navbar-burger burger" data-target="navMenu">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+                <div class="navbar-menu" id="navMenu">
+                    <div class="navbar-start">
+                        <div class="navbar-item has-dropdown is-hoverable">
+                            <a class="navbar-link">Menu</a>
+                            <div class="navbar-dropdown">
+                                <a class="navbar-item" href="/about.html">About</a>
+                                <a class="navbar-item" href="/events">Events</a>
+                                <a class="navbar-item" href="/members">Members</a>
+                                <a class="navbar-item" href="/speakers">Speakers</a>
+                                <hr class="dropdown-divider">
+                                <a class="navbar-item" href="./jmanc">JManc</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="navbar-end">
+                        <a class="navbar-item" href="https://www.meetup.com/ManchesterUK-Java-Community/">
+                            <img src="/img/brands-meetup.svg" width="40px">
+                        </a>
+                        <a class="navbar-item" href="https://twitter.com/mcrjava">
+                            <img src="/img/brands-twitter.svg" width="40px" />
+                        </a>
+                        <a class="navbar-item" href="https://github.com/ManchesterJavaCommunity">
+                            <img src="/img/brands-github.svg" width="40px">
+                        </a>
+                        <a class="navbar-item" href="https://www.youtube.com/c/ManchesterJavaCommunity">
+                            <img src="/img/brands-youtube.svg" width="40px">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </nav>
