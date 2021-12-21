@@ -1,0 +1,17 @@
+speakers:
+    - name: Simon Ritter
+      img: http://bulma.io/images/placeholders/96x96.png
+      bio: Some short bio...
+      desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
+    - name: Tim Yates
+      img: http://bulma.io/images/placeholders/96x96.png
+      bio: Some short bio...
+      desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
+    - name: Nick Ebbitt
+      img: http://bulma.io/images/placeholders/96x96.png
+      bio: Some short bio...
+      desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
+    - name: Jon Bullock
+      img: http://bulma.io/images/placeholders/96x96.png
+      bio: Some short bio...
+      desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.

@@ -2,34 +2,36 @@
 
 {% block body %}
 
-            <h1 class="has-text-centered">Events</h1>
+            <section>
+                <h1>Speakers</h1>
+                <p>Past speakers at the MJC</p>
+            </section>
 
-            {% for year in data.get("events.yml").events %}
-                <h2>{{ year.key }}</h2>
+            <section>
                 <div class="columns">
-                {% for events in year.value %}
+                {% for speaker in data.get("speakers.yml").speakers %}
                     <div class="column">
                         <div class="card">
                             <div class="card-content">
                                 <div class="media">
                                     <div class="media-left">
                                         <figure class="image is-48x48">
-                                            <img src="http://bulma.io/images/placeholders/96x96.png" />
+                                            <img src="{{ speaker.img }}" />
                                         </figure>
                                     </div>
                                     <div class="media-content">
-                                        <p class="title is-4">{{ events.type }}</p>
-                                        <p class="subtitle is-6">{{ events.event }} - {{ events.by }}</p>
+                                        <p class="title is-4">{{ speaker.name }}</p>
+                                        <p class="subtitle is-6">{{ speaker.bio }}</p>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    {{ events.desc }}
+                                    {{ speaker.desc }}
                                 </div>
                             </div>
                         </div>
                     </div>
                 {% endfor %}
                 </div>
-            {% endfor %}
+            </section>
 
 {% endblock %}

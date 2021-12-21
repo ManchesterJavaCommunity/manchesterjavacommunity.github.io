@@ -18,8 +18,8 @@
                             <div class="navbar-dropdown">
                                 <a class="navbar-item" href="/about.html">About</a>
                                 <a class="navbar-item" href="/events.html">Events</a>
-                                <a class="navbar-item" href="/members">Members</a>
-                                <a class="navbar-item" href="/speakers">Speakers</a>
+                                <a class="navbar-item" href="/members.html">Members</a>
+                                <a class="navbar-item" href="/speakers.html">Speakers</a>
                                 <hr class="dropdown-divider">
                                 <a class="navbar-item" href="./jmanc">JManc</a>
                             </div>
