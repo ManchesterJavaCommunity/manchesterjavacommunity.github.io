@@ -24,6 +24,13 @@ events:
           link: meetup.com/MJC/event1
           by: Jon Bullock
           desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
+        - event: Loom Demo
+          type: Talk
+          date: 2022-04-15
+          link: meetup.com/MJC/event1
+          by: A Nother
+          desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
+
     "2021":
         - event: JVM Performance
           type: Talk

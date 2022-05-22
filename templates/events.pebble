@@ -6,9 +6,9 @@
 
             {% for year in data.get("events.yml").events %}
                 <h2>{{ year.key }}</h2>
-                <div class="columns">
+                <div class="columns is-multiline">
                 {% for events in year.value %}
-                    <div class="column">
+                    <div class="column is-one-quarter">
                         <div class="card">
                             <div class="card-content">
                                 <div class="media">

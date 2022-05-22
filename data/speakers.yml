@@ -15,3 +15,7 @@ speakers:
       img: http://bulma.io/images/placeholders/96x96.png
       bio: Some short bio...
       desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
+    - name: Joe Bloggs
+      img: http://bulma.io/images/placeholders/96x96.png
+      bio: Some short bio...
+      desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
