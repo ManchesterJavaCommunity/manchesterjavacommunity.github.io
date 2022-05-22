@@ -1,0 +1,5 @@
+{% extends "base.pebble" %}
+
+{% block body %}
+{{ content.body | raw }}
+{% endblock %}
