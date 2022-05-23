@@ -1,0 +1,26 @@
+buildscript {
+    repositories {
+        mavenLocal()
+        mavenCentral()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'org.asciidoctor:asciidoctor-java-integration:0.1.4'
+        classpath 'org.freemarker:freemarker:2.3.19'
+    }
+}
+
+plugins {
+    id 'org.jbake.site' version '5.5.0'
+}
+
+
+jbake {
+    srcDirName = 'src'
+//    destDirName = 'jbake'
+    destDirName = 'docs'
+    version = '2.6.7'
+    clearCache = true
+    configuration['render.tag'] = 'false'
+}
