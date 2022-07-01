@@ -1,0 +1,58 @@
+events:
+    "2022":
+        - event: JVM Performance
+          type: Talk
+          date: 2022-01-15
+          link: meetup.com/MJC/event1
+          by: Simon Ritter
+          desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
+        - event: Whats new in Gradle
+          type: Talk
+          date: 2022-02-15
+          link: meetup.com/MJC/event1
+          by: Tim Yates
+          desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
+        - event: Eclipse Adoptium
+          type: Talk
+          date: 2022-03-15
+          link: meetup.com/MJC/event1
+          by: Nick Ebbitt
+          desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
+        - event: JBake demo
+          type: Talk
+          date: 2022-04-15
+          link: meetup.com/MJC/event1
+          by: Jon Bullock
+          desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
+        - event: Loom Demo
+          type: Talk
+          date: 2022-04-15
+          link: meetup.com/MJC/event1
+          by: A Nother
+          desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
+
+    "2021":
+        - event: JVM Performance
+          type: Talk
+          date: 2022-01-15
+          link: meetup.com/MJC/event1
+          by: Simon Ritter
+          desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
+        - event: Whats new in Gradle
+          type: Talk
+          date: 2022-02-15
+          link: meetup.com/MJC/event1
+          by: Tim Yates
+          desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
+        - event: Eclipse Adoptium
+          type: Talk
+          date: 2022-03-15
+          link: meetup.com/MJC/event1
+          by: Nick Ebbitt
+          desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
+        - event: JBake demo
+          type: Talk
+          date: 2022-04-15
+          link: meetup.com/MJC/event1
+          by: Jon Bullock
+          desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.

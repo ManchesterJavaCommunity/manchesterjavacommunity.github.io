@@ -1,0 +1,37 @@
+{% extends "base.pebble" %}
+
+{% block body %}
+
+            <section>
+                <h1>Speakers</h1>
+                <p>Past speakers at the MJC</p>
+            </section>
+
+            <section>
+                <div class="columns is-multiline">
+                {% for speaker in data.get("speakers.yml").speakers %}
+                    <div class="column is-one-quarter">
+                        <div class="card">
+                            <div class="card-content">
+                                <div class="media">
+                                    <div class="media-left">
+                                        <figure class="image is-48x48">
+                                            <img src="{{ speaker.img }}" />
+                                        </figure>
+                                    </div>
+                                    <div class="media-content">
+                                        <p class="title is-4">{{ speaker.name }}</p>
+                                        <p class="subtitle is-6">{{ speaker.bio }}</p>
+                                    </div>
+                                </div>
+                                <div class="content">
+                                    {{ speaker.desc }}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+                </div>
+            </section>
+
+{% endblock %}

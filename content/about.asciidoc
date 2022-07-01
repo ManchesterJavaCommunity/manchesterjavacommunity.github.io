@@ -1,0 +1,20 @@
+= About
+MJC Team
+2021-12-13
+:jbake-type: page
+:jbake-status: published
+:idprefix:
+
+== About
+
+The Manchester Java Community is a group for Java professionals interested in gathering and sharing knowledge in the industry.
+
+* It's open to beginners to experts, developers to managers, geek to professionals.
+* Membership is restricted to Java developers (or those hoping to train in Java).
+* Membership will not be granted to those involved in the recruitment industry.
+* Meetings are to be held monthly in the Manchester, UK, area and are free to attend.
+
+
+== History
+
+History of the MJC etc. etc.

@@ -1,0 +1,6 @@
+= Speakers
+MJC Team
+2021-12-21
+:jbake-type: speakers
+:jbake-status: published
+:idprefix:
