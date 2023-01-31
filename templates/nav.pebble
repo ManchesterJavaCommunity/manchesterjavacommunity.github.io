@@ -16,12 +16,14 @@
                         <div class="navbar-item has-dropdown is-hoverable">
                             <a class="navbar-link">Menu</a>
                             <div class="navbar-dropdown">
+                                <a class="navbar-item" href="/index.html">Home</a>
                                 <a class="navbar-item" href="/about.html">About</a>
                                 <a class="navbar-item" href="/events.html">Events</a>
                                 <a class="navbar-item" href="/members.html">Members</a>
                                 <a class="navbar-item" href="/speakers.html">Speakers</a>
+                                <a class="navbar-item" href="/code-of-conduct.html">Code of Conduct</a>
                                 <hr class="dropdown-divider">
-                                <a class="navbar-item" href="./jmanc">JManc</a>
+                                <a class="navbar-item" href="https://jmanc.org/">JManc</a>
                             </div>
                         </div>
                     </div>
