@@ -12,34 +12,49 @@
             </section>
             -->
 
-            <section class="message">
-                <div class="message-header">
-                    Next Event: How to be a Java Automated Testing Superstar - Billy Korando
-                </div>
-                <div class="message-body">
-                    <div class="columns">
-                        <div class="column">
-                            <img class="image img-style" src="https://secure.meetupstatic.com/photos/event/5/c/5/2/clean_498079538.jpeg" width="auto" />
+            <div class="columns">
+                <div class="column">
+                    <section class="message">
+                        <div class="message-header">
+                            Next Event: Simplifying Real-time Stream Processing Microservices at Scale on the Cloud - Fawaz Ghali
                         </div>
-                        <div class="column">
-                            <p class="pb-3">
-                                Automated testing in a crucial step in modern software development. A quality automated test suite
-                                enables rapid development and deployment practices like CI/CD by providing a stable quality check before
-                                an application is delivered to the world.
-                            </p>
+                        <div class="message-body">
+                            <div class="columns">
+                                <div class="column">
+                                   <!--<p class="pb-3">
+                                        <img class="image img-style" src="https://secure.meetupstatic.com/photos/event/5/c/5/2/clean_498079538.jpeg" width="auto" />
+                                    </p>-->
 
-                            <p class="pb-3">
-                                But how do you write a quality automated test suite in Java? In this presentation we will look at the
-                                practices and principles for writing reliable, accurate, and portable tests, and how they can be
-                                implemented using modern automated testing frameworks and libraries including; JUnit 5, Mockito, Test
-                                Containers, and others. With this knowledge you can become an automated testing superstar and help your
-                                team get to production faster!
-                            </p>
-                            <div>
-                                <a href="https://www.meetup.com/ManchesterUK-Java-Community/events/280011239/"><button class="button is-warning">Register</button></a>
+                                    <p class="pb-3">
+                                        <strong>Date:</strong> 1st March 2023
+                                        <br />
+                                        <strong>Location:</strong> Infinity Works part of Accenture, 2 Circle Square
+                                    </p>
+
+                                    <p class="pb-3">
+                                        <strong>Talk:</strong>
+                                        <br />
+                                        Real-time stream processing is growing exponentially in recent years, businesses need to gather insights from real-time data as soon as it’s generated. To do this, developers and software architects use various pipelines and tools to capture and process data in motion. Real-time stream processing has its own challenges such as testing and life-cycle management, scaling and performance, event time and late events, streaming fault tolerance, and processing guarantees. In this talk, I will address those challenges and demonstrate the best practices for real-time stream processing, from data ingestion to data processing with ultra-low latency at scale and at speed, using the Hazelcast platform. I will discuss how you can optimize your real-time streaming projects in the following areas: scalability, performance, failover, reliability, and data recovery.
+                                    </p>
+
+                                    <p class="pb-3">
+                                        <strong>Speaker:</strong>
+                                        <br />
+                                        Fawaz Ghali is a Principal Developer Advocate at Hazelcast with 20+ years of experience in software development, machine learning and real-time intelligent applications. He holds a PhD in Computer Science and has worked in the private sector as well as Academia as a Researcher and Senior Lecturer. He has published over 46 scientific papers in the fields of machine learning and data science. His strengths and skills lie within the fields of low latency applications, IoT & Edge, distributed systems and cloud technologies.
+                                    </p>
+
+                                    <div>
+                                        <a href="https://www.meetup.com/ManchesterUK-Java-Community/events/280011239/"><button class="button is-warning">Register</button></a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
+                    </section>
+                </div>
+                    <div class="column">
+                     <a class="twitter-timeline" data-lang="en" data-height="750" href="https://twitter.com/mcrjava?ref_src=twsrc%5Etfw">Tweets by mcrjava</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                     </div>
                 </div>
-            </section>
+            </div>
+
 {% endblock %}
