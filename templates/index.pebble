@@ -16,7 +16,8 @@
                 <div class="column">
                     <section class="message">
                         <div class="message-header">
-                            Next Event: Simplifying Real-time Stream Processing Microservices at Scale on the Cloud - Fawaz Ghali
+                            Making the transition to Digital Wallets with Java and the Google Wallet API<br>
+                            Edson Yanaga
                         </div>
                         <div class="message-body">
                             <div class="columns">
@@ -25,26 +26,41 @@
                                         <img class="image img-style" src="https://secure.meetupstatic.com/photos/event/5/c/5/2/clean_498079538.jpeg" width="auto" />
                                     </p>-->
 
-                                    <p class="pb-3">
-                                        <strong>Date:</strong> 1st March 2023
-                                        <br />
-                                        <strong>Location:</strong> Infinity Works part of Accenture, 2 Circle Square
+                                    <p class="mb-2">
+                                        <strong>Date:</strong> 14th March 2023
                                     </p>
 
-                                    <p class="pb-3">
+                                    <p class="mb-2">
+                                        <strong>Location:</strong>
+                                        <p>
+                                            Department Bonded Warehouse, 18 Lower Byrom Street, Manchester
+                                        </p>
+                                    </p>
+
+                                    <p class="mb-2">
                                         <strong>Talk:</strong>
-                                        <br />
-                                        Real-time stream processing is growing exponentially in recent years, businesses need to gather insights from real-time data as soon as it’s generated. To do this, developers and software architects use various pipelines and tools to capture and process data in motion. Real-time stream processing has its own challenges such as testing and life-cycle management, scaling and performance, event time and late events, streaming fault tolerance, and processing guarantees. In this talk, I will address those challenges and demonstrate the best practices for real-time stream processing, from data ingestion to data processing with ultra-low latency at scale and at speed, using the Hazelcast platform. I will discuss how you can optimize your real-time streaming projects in the following areas: scalability, performance, failover, reliability, and data recovery.
+                                        <p>
+                                            Digital Wallets are here to stay. The idea of converting legacy daily assets such as money, loyalty cards, credit cards, transit passes, and others to digital versions stored in a digital wallet is fascinating. Meet Google Wallet.
+                                        </p>
+
+                                        <p>
+                                            Join us in this session, in which you will learn how to use Java and your favorite server-side framework with the Google Wallet API to convert different kinds of assets into digital passes. Then, you'll create "Add to Google Wallet" links to share with your users so they can add your digital passes to Google Wallet.
+                                        </p>
                                     </p>
 
-                                    <p class="pb-3">
+                                    <p class="mb-2">
                                         <strong>Speaker:</strong>
-                                        <br />
-                                        Fawaz Ghali is a Principal Developer Advocate at Hazelcast with 20+ years of experience in software development, machine learning and real-time intelligent applications. He holds a PhD in Computer Science and has worked in the private sector as well as Academia as a Researcher and Senior Lecturer. He has published over 46 scientific papers in the fields of machine learning and data science. His strengths and skills lie within the fields of low latency applications, IoT & Edge, distributed systems and cloud technologies.
+                                        <p>
+                                            Edson Yanaga is a Java Champion and a former 7x Microsoft MVP. He is also a published author and a frequent speaker at international conferences, discussing Digital Wallets, Java, Kubernetes, Spring, Quarkus, Microservices, Cloud Computing, and DevOps.
+                                        </p>
+
+                                        <p>
+                                            Edson Yanaga believes that everything we do, big or small, matters - and that we can all create a better world for people with better software. His life’s purpose is to deliver good software and to help developers worldwide in delivering better software faster and reliably. Today his job, his hobby, and his life’s purpose are the same thing: and he’s happy that he found his Ikigai.
+                                        </p>
                                     </p>
 
                                     <div>
-                                        <a href="https://www.meetup.com/manchesteruk-java-community/events/291444215/"><button class="button is-warning">Register</button></a>
+                                        <a href="https://www.meetup.com/manchesteruk-java-community/events/291940806/"><button class="button is-warning">Register</button></a>
                                     </div>
                                 </div>
                             </div>
