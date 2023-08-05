@@ -16,8 +16,8 @@
                 <div class="column">
                     <section class="message">
                         <div class="message-header">
-                            Be a better Java developer, learn faster and get more results!<br>
-                            Bruno Souza
+                            Developer Productivity Engineering (DPE) is the Next Big Thing in Software Development. But what is it?<br>
+                            Trisha Gee
                         </div>
                         <div class="message-body">
                             <div class="columns">
@@ -27,40 +27,39 @@
                                     </p>-->
 
                                     <p class="mb-2">
-                                        <strong>Date:</strong> 13th July 2023
+                                        <strong>Date:</strong> 17th August 2023
                                     </p>
 
                                     <p class="mb-2">
                                         <strong>Location:</strong>
                                         <p>
-                                            3 Symphony Park, Manchester
+                                            Thoughtworks
+                                            4 Federation House, 2 Federation St, Manchester
                                         </p>
                                     </p>
 
                                     <p class="mb-2">
                                         <strong>Talk:</strong>
                                         <p>
-                                            Please join us for a talk from Java Champion Bruno Souza entitled Be a better Java developer, learn faster and get more results: it's all about the skills!
+                                            Developer Productivity Engineering (DPE) is the Next Big Thing in Software Development. But what is it? How will it foster Developer Joy? And how can you introduce it to your organization?
                                         </p>
-
                                         <p>
-                                            Struggling to keep up with technology, or feeling overwhelmed with so many things to learn? Do you feel you are a competent developer, but you don't see the results in your career? Maybe you feel like you don't belong or that you are not good enough?
-                                        </p>
-
-                                        <p>
-                                            Those are common symptoms, you are not alone! This talk will show you what's behind those feelings, why you can't keep up, and how to solve that. Come learn what the last 10 years of brain science has shown about our career and what the best developers do differently. Discover the exact skills you need to have to grow, and how to apply them in your project today. Become a better Java developer, create unlimited growth and forge your own path to success.
+                                            In this talk, Trisha will explore what DPE is, give you some practical ways to get started, and discuss ways to help the leaders in your organisation to understand the enormous value DPE could unlock.
                                         </p>
                                     </p>
 
                                     <p class="mb-2">
                                         <strong>Speaker:</strong>
                                         <p>
-                                            Since 1995, Bruno has helped Java developers improve their careers and work on cool projects with great people! He is a Java Evangelist and a Java Champion, Bruno is founder and President of SouJava, the Brazilian Java Users Society. He also represents the group on the JCP Executive Committee. Bruno discusses Java and the Developer Career in the Code4.Life project.
+                                            Trisha is a software engineer, Java Champion and author. Trisha has developed Java applications for a range of industries of all sizes, including finance, manufacturing and non-profit, and she's a lead developer advocate at Gradle. She has expertise in Java high-performance systems and dabbles with Open Source development.
+                                        </p>
+                                        <p>
+                                            Read more from Trisha in the books “Head First Java”, “Getting to Know IntelliJ IDEA”, “97 Things Every Java Developer Should Know” and “What to Look for in a Code Review”.
                                         </p>
                                     </p>
 
                                     <div>
-                                        <a href="https://www.meetup.com/manchesteruk-java-community/events/294246306/"><button class="button is-warning">Register</button></a>
+                                        <a href="https://www.meetup.com/manchesteruk-java-community/events/294927612/"><button class="button is-warning">Register</button></a>
                                     </div>
                                 </div>
                             </div>
