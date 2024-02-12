@@ -34,6 +34,9 @@
                         <a class="navbar-item" href="https://twitter.com/mcrjava">
                             <img src="/img/brands-twitter.svg" width="40px" />
                         </a>
+                        <a class="navbar-item" href="https://www.linkedin.com/groups/8270682/">
+                            <img src="/img/brands-linkedin.svg" width="40px" />
+                        </a>
                         <a class="navbar-item" href="https://github.com/ManchesterJavaCommunity">
                             <img src="/img/brands-github.svg" width="40px">
                         </a>
