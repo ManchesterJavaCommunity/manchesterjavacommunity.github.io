@@ -16,58 +16,50 @@
                 <div class="column">
                     <section class="message">
                         <div class="message-header">
-                            Live Coding: Functional Refactoring in Java<br>
-                            Matias Salerno
+                            Matillion Java Talks
                         </div>
                         <div class="message-body">
                             <div class="columns">
                                 <div class="column">
                                    <p class="pb-3">
-                                        <img class="image img-style" src="https://secure.meetupstatic.com/photos/event/1/f/8/3/600_518408067.webp?w=750" width="auto" />
+                                        <img class="image img-style" src="https://secure.meetupstatic.com/photos/event/e/7/2/6/600_519719174.webp?w=384" width="auto" />
                                     </p>
 
                                     <p class="mb-2">
-                                        <strong>Date:</strong> 31st January 2024
+                                        <strong>Date:</strong> 27th March 2024
                                     </p>
 
                                     <p class="mb-2">
                                         <strong>Location:</strong>
                                         <p>
-                                            Auto Trader UK<br />
-                                            1 Tony Wilson Place, Manchester
+                                            Matillion HQ<br />
+                                            Two New Bailey, Stanley Street, Manchester, M3 5GS
                                         </p>
                                     </p>
 
                                     <p class="mb-2">
-                                        <strong>Talk:</strong>
-                                        <p>
-                                            You're invited to embark on a thrilling journey into the world of code resurrection. Together, we'll dive deep into Java's functional programming capabilities, exploring innovative ways to breathe new life into aging legacy systems.
-                                        </p>
-                                        <p>
-                                            Get ready to witness the transformation of the codebase in real-time as we systematically refactor and revitalize, unlocking fresh possibilities and harnessing the full potential of modern development techniques.
-                                        </p>
-                                        <p>
-                                            We will learn Functional Programming concepts like Functor, Monad, Recursion and also techniques from Domain-Driven Design.
-                                        </p>
-                                        <p>
-                                            Don't miss this extraordinary live coding session, where we'll peel back the layers and unravel the secrets to making legacy code shine once again, revitalised and reinvigorated for the future!
-                                        </p>
+                                        <strong>Event details:</strong>
+                                        <p>This month the Manchester Java Community welcomes Matillion for an evening of technical talks that will provide insights into how they utilise JVM based technologies to power their business.</p>
+
+                                        <p>We will have 3 separate talks:</p>
+
+                                        <p><strong>Upgrading our flagship product from Java 8 to Java 17</strong> - What we learned from applying 9 1/2 years of version updates in one go.</p>
+                                        <p>By: Alasdair MacGruer - Staff Engineer<br />Interloper from the water industry; got fed up of the driving and politics, now trying my hand as a Java dev. Ask me about: water chemistry, chemical engineering, industrial automation, real-time assembly, modern C++, rugby, Dark Souls, cats.</p>
+
+                                        <p><strong>Delivering connectors at 10x speed</strong> - How we built a Java framework which allows Matillion to deliver connectors faster, including api interfaces for different types of connectors/modules, metadata generation annotation support, connector templating, repository organisation, etc.</p>
+                                        <p>By: Zhijun Chen - Senior Staff Engineer<br />Joined Matillion about 9 months ago. I've been working with Java ecosystems for more than 15 years. In my spare time I like hanging out with my kids, building Lego, playing basketball, and etc.</p>
+
+                                        <p><strong>Instrumenting the Data Productivity Cloud</strong> - A look at the role of instrumentation in Matillion’s journey to develop its hybrid SaaS platform</p>
+                                        <p>By: Jack Hartley - Software Engineer<br />Joined Matillion 5 years ago as a new graduate. In my spare time I like to go for a walk or a bicycle ride.</p>
                                     </p>
 
                                     <p class="mb-2">
-                                        <strong>Speaker:</strong>
-                                        <p>
-                                            <a href="https://www.linkedin.com/in/matiasdsalerno/">Mati</a> is a Software Engineer with more than 14 years of experience and with a background in Java and JVM languages application development.
-                                        </p>
-                                        <p>
-                                            He is from Argentina and lives in Manchester, UK.<br />
-                                            He is a Subject Matter Expert in Scalable Platforms at Globant.<br />
-                                            He is passionate about learning and teaching, which led him to create his YouTube channel "<a href="https://www.youtube.com/@programmingwithmati">Programming with Mati</a>", where he speaks about Java, Kafka, Functional Programming and other interesting software engineering topics.
-                                        </p>
+                                        <p>Thanks to <a href="http://www.ecomrecruitment.com/">ECOM</a> for their support with this event.</p>
+                                        <p>Food and drink will be provided by our hosts - <a href="https://www.matillion.com/">Matillion</a>.</p>
                                     </p>
 
                                     <div>
-                                        <a href="https://www.meetup.com/manchesteruk-java-community/events/298435303/"><button class="button is-warning">Register</button></a>
+                                        <a href="https://www.meetup.com/manchesteruk-java-community/events/299527440/"><button class="button is-warning">Register</button></a>
                                     </div>
                                 </div>
                             </div>
