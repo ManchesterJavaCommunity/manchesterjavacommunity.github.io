@@ -16,50 +16,47 @@
                 <div class="column">
                     <section class="message">
                         <div class="message-header">
-                            Matillion Java Talks
+                            Practical introduction to OpenTelemetry tracing
                         </div>
                         <div class="message-body">
                             <div class="columns">
                                 <div class="column">
                                    <p class="pb-3">
-                                        <img class="image img-style" src="https://secure.meetupstatic.com/photos/event/e/7/2/6/600_519719174.webp?w=384" width="auto" />
+                                        <img class="image img-style" src="https://secure.meetupstatic.com/photos/event/d/d/8/7/600_526856711.webp?w=750" width="auto" />
                                     </p>
 
                                     <p class="mb-2">
-                                        <strong>Date:</strong> 27th March 2024
+                                        <strong>Date:</strong> 9th April 2025
                                     </p>
 
                                     <p class="mb-2">
                                         <strong>Location:</strong>
                                         <p>
-                                            Matillion HQ<br />
-                                            Two New Bailey, Stanley Street, Manchester, M3 5GS
+                                            Auto Trader UK<br />
+                                            1 Tony Wilson Place, Manchester
                                         </p>
                                     </p>
 
                                     <p class="mb-2">
-                                        <strong>Event details:</strong>
-                                        <p>This month the Manchester Java Community welcomes Matillion for an evening of technical talks that will provide insights into how they utilise JVM based technologies to power their business.</p>
+                                        <strong>Talk:</strong>
+                                        <p>Tracking a request’s flow across different components in distributed systems is essential. With the rise of microservices, their importance has risen to critical levels. Some proprietary tools for tracking have been used already: Jaeger and Zipkin naturally come to mind.</p>
 
-                                        <p>We will have 3 separate talks:</p>
+                                        <p>Observability is built on three pillars: logging, metrics, and tracing. OpenTelemetry is a joint effort to bring an open standard to them. Jaeger and Zipkin joined the effort so that they are now OpenTelemetry compatible.</p>
 
-                                        <p><strong>Upgrading our flagship product from Java 8 to Java 17</strong> - What we learned from applying 9 1/2 years of version updates in one go.</p>
-                                        <p>By: Alasdair MacGruer - Staff Engineer<br />Interloper from the water industry; got fed up of the driving and politics, now trying my hand as a Java dev. Ask me about: water chemistry, chemical engineering, industrial automation, real-time assembly, modern C++, rugby, Dark Souls, cats.</p>
-
-                                        <p><strong>Delivering connectors at 10x speed</strong> - How we built a Java framework which allows Matillion to deliver connectors faster, including api interfaces for different types of connectors/modules, metadata generation annotation support, connector templating, repository organisation, etc.</p>
-                                        <p>By: Zhijun Chen - Senior Staff Engineer<br />Joined Matillion about 9 months ago. I've been working with Java ecosystems for more than 15 years. In my spare time I like hanging out with my kids, building Lego, playing basketball, and etc.</p>
-
-                                        <p><strong>Instrumenting the Data Productivity Cloud</strong> - A look at the role of instrumentation in Matillion’s journey to develop its hybrid SaaS platform</p>
-                                        <p>By: Jack Hartley - Software Engineer<br />Joined Matillion 5 years ago as a new graduate. In my spare time I like to go for a walk or a bicycle ride.</p>
+                                        <p>In this talk, I’ll describe the above in more detail and showcase a (simple) use case to demo how you could benefit from OpenTelemetry in your distributed architecture.</p>
                                     </p>
 
                                     <p class="mb-2">
-                                        <p>Thanks to <a href="http://www.ecomrecruitment.com/">ECOM</a> for their support with this event.</p>
-                                        <p>Food and drink will be provided by our hosts - <a href="https://www.matillion.com/">Matillion</a>.</p>
+                                        <strong>Speaker:</strong>
+                                        <p><a href="https://blog.frankel.ch/">Nicolas Fränkel</a> is a Developer Advocate with 15+ years experience consulting for many different customers, in a wide range of contexts (such as telecoms, banking, insurances, large retail and public sector). Usually working on Java/Java EE and Spring technologies, but with focused interests like Rich Internet Applications, Testing, CI/CD and DevOps. Also double as a trainer and triples as a book author.</p>
+                                    </p>
+
+                                    <p class="mb-2">
+                                        <p>Food and drink will be provided on the night, huge thanks to our hosts <a href="https://careers.autotrader.co.uk/">Auto Trader</a> for their support!</p>
                                     </p>
 
                                     <div>
-                                        <a href="https://www.meetup.com/manchesteruk-java-community/events/299527440/"><button class="button is-warning">Register</button></a>
+                                        <a href="https://www.meetup.com/manchesteruk-java-community/events/306794094/"><button class="button is-warning">Register</button></a>
                                     </div>
                                 </div>
                             </div>
