@@ -16,47 +16,47 @@
                 <div class="column">
                     <section class="message">
                         <div class="message-header">
-                            Practical introduction to OpenTelemetry tracing
+                            Java House Sessions at N Brown Group
                         </div>
                         <div class="message-body">
                             <div class="columns">
                                 <div class="column">
                                    <p class="pb-3">
-                                        <img class="image img-style" src="https://secure.meetupstatic.com/photos/event/d/d/8/7/600_526856711.webp?w=750" width="auto" />
+                                        <img class="image img-style" src="https://secure.meetupstatic.com/photos/event/a/9/9/a/highres_527263418.webp?w=750" width="auto" />
                                     </p>
 
                                     <p class="mb-2">
-                                        <strong>Date:</strong> 9th April 2025
+                                        <strong>Date:</strong> 14th May 2025
                                     </p>
 
                                     <p class="mb-2">
                                         <strong>Location:</strong>
                                         <p>
-                                            Auto Trader UK<br />
-                                            1 Tony Wilson Place, Manchester
+                                            N Brown Group<br />
+                                            Griffin House, 40 Lever Street, Manchester, M1 1FL
                                         </p>
                                     </p>
 
                                     <p class="mb-2">
                                         <strong>Talk:</strong>
-                                        <p>Tracking a request’s flow across different components in distributed systems is essential. With the rise of microservices, their importance has risen to critical levels. Some proprietary tools for tracking have been used already: Jaeger and Zipkin naturally come to mind.</p>
+                                        <p>We're excited to announce that "Java House Sessions" in partnership with <a href="https://www.interquestgroup.com/brands/ecom">ECOM</a> is back for 2025</p>
 
-                                        <p>Observability is built on three pillars: logging, metrics, and tracing. OpenTelemetry is a joint effort to bring an open standard to them. Jaeger and Zipkin joined the effort so that they are now OpenTelemetry compatible.</p>
+                                        <p>We can share that our next event will be with the Java team over at N Brown Group in Central Manchester.</p>
 
-                                        <p>In this talk, I’ll describe the above in more detail and showcase a (simple) use case to demo how you could benefit from OpenTelemetry in your distributed architecture.</p>
+                                        <p>Full details of the talks to follow</p>
                                     </p>
 
                                     <p class="mb-2">
                                         <strong>Speaker:</strong>
-                                        <p><a href="https://blog.frankel.ch/">Nicolas Fränkel</a> is a Developer Advocate with 15+ years experience consulting for many different customers, in a wide range of contexts (such as telecoms, banking, insurances, large retail and public sector). Usually working on Java/Java EE and Spring technologies, but with focused interests like Rich Internet Applications, Testing, CI/CD and DevOps. Also double as a trainer and triples as a book author.</p>
+                                        <p>Details of the speakers to follow</p>
                                     </p>
 
                                     <p class="mb-2">
-                                        <p>Food and drink will be provided on the night, huge thanks to our hosts <a href="https://careers.autotrader.co.uk/">Auto Trader</a> for their support!</p>
+                                        <p>Food and drink will be provided on the night, huge thanks to our hosts <a href="https://www.nbrown.co.uk/">N Brown Group</a> for their support!</p>
                                     </p>
 
                                     <div>
-                                        <a href="https://www.meetup.com/manchesteruk-java-community/events/306794094/"><button class="button is-warning">Register</button></a>
+                                        <a href="https://www.meetup.com/manchesteruk-java-community/events/307191674/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><button class="button is-warning">Register</button></a>
                                     </div>
                                 </div>
                             </div>
